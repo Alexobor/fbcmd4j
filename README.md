@@ -1,14 +1,14 @@
 # fbcmd4j
 Desarrollo de la Evidencia de la materia de Computación en Java para la creación de un cliente Facebook
 
-# INSTALACION
+# Instalación
 TODO: Agregar proceso de instalación
 
-# USO
+# Uso
 TODO: Agregar instrucciones de uso
 
-# CREDITOS
+# Créditos
 TODO: Agregar autor(es)
 
-# LICENCIA
+# Licencia
 TODO: Agregar licencia
